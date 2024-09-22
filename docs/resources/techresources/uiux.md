@@ -41,23 +41,23 @@ columns 1
 
   STRUCTURE --> STYLE
   
-  style A fill:#0e6251
-  style B fill:#148f77
-  style C fill:#148f77
-  style D fill:#148f77
-  style E fill:#148f77
+  style A color:#fefefe, fill:#0e6251
+  style B color:#fefefe, fill:#148f77
+  style C color:#fefefe, fill:#148f77
+  style D color:#fefefe, fill:#148f77
+  style E color:#fefefe, fill:#148f77
 
-  style G fill:#7e5109
-  style J fill:#b9770e
-  style L fill:#b9770e
+  style G color:#fefefe, fill:#7e5109
+  style J color:#fefefe, fill:#b9770e
+  style L color:#fefefe, fill:#b9770e
 
-  style M fill:#1b4f72
-  style N fill:#2874a6
-  style O fill:#2874a6
+  style M color:#fefefe, fill:#1b4f72
+  style N color:#fefefe, fill:#2874a6
+  style O color:#fefefe, fill:#2874a6
 
-  style STRATEGY fill:#b3b6b7
-  style STRUCTURE fill:#b3b6b7
-  style STYLE fill:#b3b6b7
+  style STRATEGY color:#fefefe, fill:#b3b6b7
+  style STRUCTURE color:#fefefe, fill:#b3b6b7
+  style STYLE color:#fefefe, fill:#b3b6b7
 ```
 ### 1. Product Strategy
 
@@ -97,10 +97,10 @@ block-beta
     VMOTIVATIONS("Uses app to provide support to other customers")
   end
   style TEMPLATE fill:#aed6f1
-  style NAME fill:#21618c
-  style DEMOGRAPHICS fill:#21618c
-  style GOALS fill:#21618c
-  style MOTIVATIONS fill:#21618c
+  style NAME color:#fefefe, fill:#21618c
+  style DEMOGRAPHICS color:#fefefe, fill:#21618c
+  style GOALS color:#fefefe, fill:#21618c
+  style MOTIVATIONS color:#fefefe, fill:#21618c
 ```
 
 **_Resources:_**
@@ -128,9 +128,9 @@ block-beta
     VBENEFIT("During a customer support call</br>quickly locate the events they</br>are interested in attending</br>and relay the details to them")
   end
   style TEMPLATE fill:#aed6f1
-  style WHO fill:#21618c
-  style WANT fill:#21618c
-  style BENEFIT fill:#21618c
+  style WHO color:#fefefe, fill:#21618c
+  style WANT color:#fefefe, fill:#21618c
+  style BENEFIT color:#fefefe, fill:#21618c
 ```
 
 **_Resources:_**
